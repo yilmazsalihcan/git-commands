@@ -22,7 +22,7 @@ Git is the tool. Github is a website to host your repositories.
 * **git** **checkout** **-b** **nameofyourbranch** :  This command creates a new branch with name.
 * **git** **merge**: This command merge your changes from branch to another branch
 * **git** **branch** **-d** **nameofyourbranch** : This command deletes your branch
-* **git** **commit** **-am** “message” : This command is a shortcut add and message together. It only works for modified files.
+* **git** **commit** **-am** **“message”** : This command is a shortcut add and message together. It only works for modified files.
 * **git** **reset** **nameoffile**: This command resets your commits.
 * **git** **reset** **HEAD~1** : If you commit wrong things to your repo. You can turn back  one step back.
 * **git** **log** : This command shows all commit history in your repo.
