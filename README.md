@@ -7,7 +7,7 @@ Git is free and open source version control system.
 Git is the tool. Github is a website to host your repositories.
 
 # Important Terms
-* Repository:Project or the folder where your project is kept.
+* **Repository**:Project or the folder where your project is kept.
 
 # Git Commands
 
